@@ -1,3 +1,3 @@
 # git-Prog3
 
-some words
+First description of the project, made by Luis.
